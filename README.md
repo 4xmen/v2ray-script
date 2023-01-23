@@ -1,7 +1,5 @@
 # v2ray-script
 
-Bridge and upstream server
-
 This is very easy `vmess` installer, based on bridge and upstream server solution for `debian` and `ubuntu`.
 
 ![A Screenshot ](v2ray.png?raw=true "v2ray-")
