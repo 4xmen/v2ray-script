@@ -2,7 +2,7 @@
 
 Bridge and upstream server
 
-This is very easy installer `vmess` bridge and upstream server for `debian` and `ubuntu` without need docker or any dependencies.
+This is very easy `vmess` installer, based on bridge and upstream server solution for `debian` and `ubuntu`.
 
 ![A Screenshot ](v2ray.png?raw=true "v2ray-")
 
