@@ -47,7 +47,6 @@ chmod +x vmess-bridge-installer.sh
 
 [![Github](https://img.shields.io/badge/V2ray-Script-black.svg)](https://github.com/4xmen/v2ray-script) &nbsp;&nbsp;&nbsp;
 [![GPL License](https://img.shields.io/badge/License-GPL-green.svg)](https://choosealicense.com/licenses/GPL/) &nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/Github-Xstack-red.svg)](https://Github.com/Xstack) &nbsp;&nbsp;&nbsp;
 [![Github](https://img.shields.io/badge/Github-4xmen-blue.svg)](https://Github.com/4xmen) &nbsp;&nbsp;&nbsp;
 
 </div>
@@ -56,12 +55,12 @@ chmod +x vmess-bridge-installer.sh
 
 https://Github.com/4xmen
 <br>
-https://Github.com/Xstack
+https://Xstack.ir
 
 ## Features
 
 - Better Config
-- New Linux Patches
+- Support Other Linux Distros
 
 
 ## License
@@ -69,11 +68,6 @@ https://Github.com/Xstack
  [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 <br>
  [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)    
-
-## Authors
-
-* [@4xmen](https://www.github.com/4xmen)
-* [@Xstack](https://www.github.com/Xstack)
 
 
 ## Report Some Bugs

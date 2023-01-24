@@ -14,8 +14,8 @@
 ## زبان 
 <div align="center">
 
-[![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/v2ray-script/README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/v2ray-script/README.fa.md)
+[![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/v2ray-script/blob/master/README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/v2ray-script/blob/master/README.fa.md)
 
 </div>
 
@@ -61,12 +61,12 @@ chmod +x vmess-bridge-installer.sh
 
 https://Github.com/4xmen
 <br>
-https://Github.com/Xstack
+https://Xstack.ir
 
 ## اهداف آینده
 
-- Better Config
-- New Linux Patches
+- کانفیگ بهتر
+- ساپورت نسخه های دیگر لینوکس
 
 
 ## لایسنس
@@ -75,10 +75,6 @@ https://Github.com/Xstack
 <br>
 [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-## دولوپر ها
-
-* [@4xmen](https://www.github.com/4xmen)
-* [@Xstack](https://www.github.com/Xstack)
 
 
 ## گزارش برخی از اشکالات
