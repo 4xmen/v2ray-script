@@ -21,6 +21,21 @@
 
 To deploy this project run , First install upstream And get upstream server info
 
+### vless - vmess (recommended) 
+
+```shell
+wget https://raw.githubusercontent.com/4xmen/v2ray-script/main/vless-upstream-installer.sh
+chmod +x vless-upstream-installer.sh
+./vless-upstream-installer.sh
+```
+Then install bridge server :
+```shell
+wget https://raw.githubusercontent.com/4xmen/v2ray-script/main/vmess-vless-bridge-installer.sh
+chmod +x vmess-vless-bridge-installer.sh
+./vmess-vless-bridge-installer.sh
+```
+
+### vmess - vmess
 ```shell
 wget https://raw.githubusercontent.com/4xmen/v2ray-script/main/vmess-upstream-installer.sh
 chmod +x vmess-upstream-installer.sh
@@ -33,7 +48,7 @@ wget https://raw.githubusercontent.com/4xmen/v2ray-script/main/vmess-bridge-inst
 chmod +x vmess-bridge-installer.sh
 ./vmess-bridge-installer.sh
 ```
-## 
+
 
 ## Screenshots
 

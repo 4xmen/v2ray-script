@@ -23,6 +23,26 @@
 
 برای اجرای این پروژه، ابتدا upstream را نصب کنید و اطلاعات سرور upstream را دریافت کنید...
 
+### vless - vmess (پیشنهادی)
+<div dir="ltr">
+
+```shell
+wget https://raw.githubusercontent.com/4xmen/v2ray-script/main/vless-upstream-installer.sh
+chmod +x vless-upstream-installer.sh
+./vless-upstream-installer.sh
+```
+<div dir="rtl"> سپس باید پل اتصال به سرور را نصب کنید.</div>
+
+```shell
+wget https://raw.githubusercontent.com/4xmen/v2ray-script/main/vmess-vless-bridge-installer.sh
+chmod +x vmess-vless-bridge-installer.sh
+./vmess-vless-bridge-installer.sh
+```
+
+</div>
+
+### vmess - vmess
+
 <div dir="ltr">
 
 ```shell

@@ -87,7 +87,7 @@ function makeConfig() {
     {
       "listen": "0.0.0.0",
       "port": '$VPORT',
-      "protocol": "vless",
+      "protocol": "vmess",
       "settings": {
         "clients": [
           {
@@ -102,7 +102,7 @@ function makeConfig() {
   "outbounds": [
     {
       "tag": "proxy",
-      "protocol": "vmess",
+      "protocol": "vless",
       "settings": {
         "vnext": [
           {
