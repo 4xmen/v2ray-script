@@ -75,8 +75,6 @@ function choosePort() {
 function makeConfig() {
   /opt/vmess/client$VSUFFIX.json
   VPASS="991832cc-"$(shuf -i1000-9999 -n1)"-"$(shuf -i1000-9999 -n1)"-"$(shuf -i1000-9999 -n1)"-7731d533fffe"
-  VHPORT=$(shuf -i49152-65535 -n1)
-  VSPORT=$(shuf -i49152-65535 -n1)
   {
 
     echo '{
@@ -86,21 +84,6 @@ function makeConfig() {
     "loglevel": "warning"
   },
   "inbounds": [
-    {
-      "listen": "0.0.0.0",
-      "port": '$VSPORT',
-      "protocol": "socks",
-      "settings": {
-        "auth": "noauth",
-        "udp": true
-      }
-    },
-    {
-      "listen": "0.0.0.0",
-      "port": '$VHPORT',
-      "protocol": "http",
-      "settings": {}
-    },
     {
       "listen": "0.0.0.0",
       "port": '$VPORT',
@@ -239,8 +222,6 @@ getIP
 choosePort
 makeConfig
 makeService
-echo 'local http port: '$VHPORT
-echo 'local socks5 port: '$VSPORT
 echo 'Your vmess config: '
 echo ' '
 VCONF='{"add":"'$VIP'","aid":"0","host":"","id":"'$VPASS'","net":"tcp","path":"","port":"'$VPORT'","ps":"'$VCLIENT'","scy":"auto","sni":"","tls":"none","type":"none","v":"2"}'
